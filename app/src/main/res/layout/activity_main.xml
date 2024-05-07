@@ -47,5 +47,15 @@
         android:padding="15dp"
         tools:ignore="HardcodedText,UnusedAttribute" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/convertBtn"
+        android:layout_marginTop="80dp"
+        android:textSize="20dp"
+        android:text="Developed by Sagorika Rana"
+        android:textColor="#EADBC8"/>
+
 
 </RelativeLayout>
